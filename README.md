@@ -16,7 +16,9 @@ The Income Expense Management App is a React Native application built with Expo 
      - Weekly Financial Breakdown (Line Chart)
      - Expense Distribution by Category (Pie Chart)
 
-   ![Dashboard Screen](./images/dashboard.png)
+   ![Dashboard Screen](./images/dashboard1.png)
+   <br>
+   ![Dashboard Screen](./images/dashboard2.png)
 
 2. **Transaction List**
 
@@ -25,6 +27,7 @@ The Income Expense Management App is a React Native application built with Expo 
    - Download transaction list as Excel file
 
    ![Transaction List Screen](./images/transaction_list.png)
+   <br>
    ![Update Transaction Screen](./images/update_transaction.png)
 
 3. **Add Transaction**
@@ -34,6 +37,7 @@ The Income Expense Management App is a React Native application built with Expo 
    - Option to add custom categories
 
    ![Add Transaction Screen](./images/add_transaction.png)
+   <br>
    ![Add New Category Screen](./images/add_new_category.png)
 
 4. **Recurring Costs**
@@ -43,7 +47,9 @@ The Income Expense Management App is a React Native application built with Expo 
    - Add, edit, and delete recurring costs
 
    ![Recurring Cost Screen](./images/recurring_cost.png)
+   <br>
    ![Add New Recurring Cost](./images/add_new_recurring_cost.png)
+   <br>
    ![Update Recurring Cost](./images/update_recurring_cost.png)
 
 ## Installation
